@@ -149,6 +149,10 @@
       "name": "active-speaker-alert-bold",
       "color": "red"
     },
+       "call_queued":{
+      "name": "bitmoji-connected-regular",
+      "color": "green"
+    },
     "call-end":{
       "name": "pull-call-bold",
       "color": "red"
