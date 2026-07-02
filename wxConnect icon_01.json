@@ -149,7 +149,7 @@
       "name": "active-speaker-alert-bold",
       "color": "red"
     },
-       "call_queued":{
+      "call_queued":{
       "name": "bitmoji-connected-regular",
       "color": "green"
     },
