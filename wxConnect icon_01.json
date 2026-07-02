@@ -155,7 +155,7 @@
     },
     "call-end":{
       "name": "pull-call-bold",
-      "color": "red"
+      "color": "orange"
   }
 }
   
