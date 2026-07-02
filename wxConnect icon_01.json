@@ -148,6 +148,10 @@
     "network_error":{
       "name": "active-speaker-alert-bold",
       "color": "red"
-    }
+    },
+    "call-end":{
+      "name": "pull-call-bold",
+      "color": "red"
   }
+}
   
