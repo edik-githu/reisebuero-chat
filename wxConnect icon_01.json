@@ -153,6 +153,10 @@
       "name": "bitmoji-connected-regular",
       "color": "green"
     },
+      "PhoneContactEnded":{
+      "name": "away-calling-presence-bold",
+      "color": "yellow"
+    },
     "call-end":{
       "name": "pull-call-bold",
       "color": "orange"
